@@ -1,0 +1,16 @@
+# v0.37: inTouch: Look up inTouch mapping for specific Service Point
+# v0.38: SDPlus: Create a call
+# v0.39: SDPlus: Create a call with optional fields, edit a call
+# v0.40: accepts blanks halfway through sdplus edit fields, Move the commands around so "help" in a create call works!
+# v0.41 case insensitive commands for SCOTT CURLEY!
+# v0.42 create sdplus TI call for scott curley. Discovered ’ character in a print() will crash windows command line
+# v0.43 added Group and slack user Assignee to sdplus create + inspiring, not design quote, tokens moved to os.environ
+# v1.0 moved to windows service
+# v1.24 added simple 'who's on triage rota' message timed to 0900, then get/set that person
+# v1.30 DQ to check to log to CSC
+# v1.301 Refactored to clean up command choice section
+# v1.31 Write rota_dq_check which checks for triage and calls to log to CSC
+# v1.4 Updated sdplus_api calls to reflect changes in custom sdplus_rest_api module
+# v1.5 Included sdplus_counts module (and class) for the day
+# v1.6 Added stats get week, stats get month
+# v1.64 Introduced use_approved_users_authentication flag
