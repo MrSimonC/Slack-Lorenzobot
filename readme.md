@@ -7,7 +7,6 @@ Lorenzobot understands and reacts to commands given to it by chatting to the bot
 ### Commands are:
 
 `help` - Show This Menu
-    
 `intouch check` - ClinicID or Mapped Treatment Function - Shows Mapping
 
 `sdplus create` - Summary [, Impact, Urgency, Requester, Description, Telephone, Assignee, Group] - Create SDPlus Call (with optional fields)
