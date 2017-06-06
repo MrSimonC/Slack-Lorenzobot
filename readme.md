@@ -6,28 +6,18 @@ Lorenzobot understands and reacts to commands given to it by chatting to the bot
 
 ### Commands are:
 
-`help` - Show This Menu
-`intouch check` - ClinicID or Mapped Treatment Function - Shows Mapping
-
-`sdplus create` - Summary [, Impact, Urgency, Requester, Description, Telephone, Assignee, Group] - Create SDPlus Call (with optional fields)
-
-`sdplus createti` -  TI Number, Test Cycle Number, Tel Extension, [Title, Description, Requester, Assignee, Group] - Create TI SDPlus Call
-
-`sdplus edit` - number [status/group/impact/urgency/level/tel/requester/subject/description] value - Edit SDPlus Call
-
-`stats get [day/week/month]` - Get Statistics for Back Office queues today/this week/this month
-
-Ask a Question (use `?`) - Lets chat!
-
-`quote` - Tell me a nice quote
-
-`rota get` - Get Triage Rota Person
-
-`rota set @username` - Set Triage Rota Person
-
-`rota inform` - Inform Back Office of who's on rota
-
-`stats set -f` - Force Set of Statistics for Back Office queues
+`help` - Show This Menu  
+`intouch check` - ClinicID or Mapped Treatment Function - Shows Mapping  
+`sdplus create` - Summary [, Impact, Urgency, Requester, Description, Telephone, Assignee, Group] - Create SDPlus Call (with optional fields)  
+`sdplus createti` -  TI Number, Test Cycle Number, Tel Extension, [Title, Description, Requester, Assignee, Group] - Create TI SDPlus Call  
+`sdplus edit` - number [status/group/impact/urgency/level/tel/requester/subject/description] value - Edit SDPlus Call  
+`stats get [day/week/month]` - Get Statistics for Back Office queues today/this week/this month  
+Ask a Question (use `?`) - Lets chat!  
+`quote` - Tell me a nice quote  
+`rota get` - Get Triage Rota Person  
+`rota set @username` - Set Triage Rota Person  
+`rota inform` - Inform Back Office of who's on rota  
+`stats set -f` - Force Set of Statistics for Back Office queues  
 
 ## Prerequisite:
 On the server PC, install "Visual C++ Redistributable for Visual Studio 2015 x86.exe" (on 32-bit, or x64 on 64-bit) which allows Python 3.5 dlls to work, found here:
