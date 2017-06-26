@@ -77,8 +77,15 @@ in a command line.
 In a command prompt, type:
 `echo %SLACK_LORENZOBOT%`
 
-## Screenshot
-![help screen](readme_images/screenshot.png)
+## Screenshots
+![help](readme_images/help.png)
+
+![stats](readme_images/stats.png)
+
+![rota](readme_images/rota.png)
+
+![quote](readme_images/quote.png)
+
 
 _Written by:_
 
